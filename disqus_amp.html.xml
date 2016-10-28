@@ -1,8 +1,6 @@
-<amp-iframe expr:src='&quot;https://cdn.rawgit.com/lomkrodsp/amp-disqus/master/disqus_amp.html.xml?shortname=https-thaifoodguru-blogspot-com&amp;url=&quot; + data:blog.canonicalUrl' frameborder='0' height='300' layout='responsive' resizable='resizable' sandbox='allow-scripts allow-same-origin allow-modals allow-popups' width='600'>
-<div aria-label='Disqus Comments' overflow='' role='button' tabindex='0'>Disqus Comments</div>
-</amp-iframe>
+
 <style>
-#disqus_thread a{color: #e8554e;}
+#disqus_thread 
 </style>
 <div id="disqus_thread"></div>
 <script>
